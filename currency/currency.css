@@ -19,6 +19,15 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.icon-deutsch:before {
+  content: "\e903";
+}
+.icon-romanian:before {
+  content: "\e904";
+}
+.icon-chinese:before {
+  content: "\e905";
+}
 .icon-english:before {
   content: "\e901";
 }
