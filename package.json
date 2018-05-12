@@ -1,6 +1,6 @@
 {
   "name": "quasar-currency-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a custom icons set plugin for Quasar Framework",
   "main": "currency.js",
   "scripts": {
