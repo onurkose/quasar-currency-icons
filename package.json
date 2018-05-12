@@ -1,0 +1,25 @@
+{
+  "name": "quasar-currency-icons",
+  "version": "1.0.0",
+  "description": "Just a custom icons set plugin for Quasar Framework",
+  "main": "currency.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurkose/quasar-currency-icons.git"
+  },
+  "keywords": [
+    "quasar",
+    "framework",
+    "currency",
+    "icons"
+  ],
+  "author": "Onur Kose <kose.onur@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onurkose/quasar-currency-icons/issues"
+  },
+  "homepage": "https://github.com/onurkose/quasar-currency-icons#readme"
+}
