@@ -1,14 +1,14 @@
 {
-  "name": "quasar-currency-icons",
+  "name": "quasar-locale-icons",
   "version": "1.0.2",
   "description": "Just a custom icons set plugin for Quasar Framework",
-  "main": "currency.js",
+  "main": "locale.js",
   "scripts": {
     "test": "none"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onurkose/quasar-currency-icons.git"
+    "url": "git+https://github.com/onurkose/quasar-locale-icons.git"
   },
   "keywords": [
     "quasar",
@@ -19,7 +19,7 @@
   "author": "Onur Kose <kose.onur@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/onurkose/quasar-currency-icons/issues"
+    "url": "https://github.com/onurkose/quasar-locale-icons/issues"
   },
-  "homepage": "https://github.com/onurkose/quasar-currency-icons#readme"
+  "homepage": "https://github.com/onurkose/quasar-locale-icons#readme"
 }
