@@ -1,1 +1,0 @@
-require('./currency/currency.css')
