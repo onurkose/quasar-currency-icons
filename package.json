@@ -1,6 +1,6 @@
 {
   "name": "quasar-locale-icons",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Just a custom icons set plugin for Quasar Framework",
   "main": "locale.js",
   "scripts": {
